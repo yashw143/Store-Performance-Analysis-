@@ -4,6 +4,7 @@ As a part of a store analysis project, I utilized Excel to generate actionable i
 This allowed me to effectively communicate the store's performance metrics and make data-driven recommendations for future improvements.
 
 Sample Insights
+
 *Women are more likely to buy compared to men (~65%)
 
 *Maharashtra, Karnataks and Uttar Pradesh are the top 3 states (~35%)
